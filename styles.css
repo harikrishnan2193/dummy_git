@@ -1,0 +1,10 @@
+body {
+  background-color: red;
+}
+ul {
+  display: flex;
+}
+
+ul li {
+  list-style-type: none;
+}
