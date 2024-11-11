@@ -1,5 +1,5 @@
 body {
-  background-color: red;
+  background-color: skyblue;
 }
 ul {
   display: flex;
@@ -7,4 +7,9 @@ ul {
 
 ul li {
   list-style-type: none;
+}
+
+img {
+  width: 200px;
+  border: 2px solid red;
 }
